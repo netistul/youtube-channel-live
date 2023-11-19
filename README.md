@@ -12,7 +12,7 @@ The script works by checking the YouTube channel's page for specific indicators 
 **Note:** This method relies on parsing the HTML content of the YouTube page, which can be subject to change. Therefore, the script's effectiveness may vary over time.
 
 ## How to Use
-1. **Obtain YouTube Channel ID**: First, find the YouTube channel ID you wish to check. If you only have the channel name, you can convert it to an ID using online tools like [StreamWeasels YouTube Channel ID and User ID Converter](https://www.streamweasels.com/tools/youtube-channel-id-and-user-id-convertor/).
+1. **Obtain YouTube Channel ID**: First, find the YouTube channel ID you wish to check. If you only have the channel name, you can convert it to an ID using online tools like [StreamWeasels YouTube Channel ID Converter](https://www.streamweasels.com/tools/youtube-channel-id-and-user-id-convertor/).
 
 2. **Running the Script**: Replace the `channel_id` and `channel_name` variables in the script with the respective ID and name of the YouTube channel you are checking.
 
